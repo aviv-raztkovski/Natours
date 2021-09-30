@@ -1,0 +1,14 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "sass --watch /sass/main.scss /css/style.css"
+
+  },
+  "author": "Aviv",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
